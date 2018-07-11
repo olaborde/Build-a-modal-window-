@@ -12,3 +12,7 @@ body{
   animation: change-color 1.5s ease-out;
   animation-play-state: paused
 }
+
+.red{
+  background-color: red;
+}
