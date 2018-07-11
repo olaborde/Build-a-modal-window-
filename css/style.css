@@ -16,8 +16,19 @@ body{
 .red{
   background-color: red;
 }
+
+.modal{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  padding: 3em;
+  border-radius: 12px;
+}
 .modal-container{
   position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   top: 0;
   right: 0;
   bottom: 0;
