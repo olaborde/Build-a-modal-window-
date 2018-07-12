@@ -9,3 +9,6 @@ console.log(button);
 button.addEventListener("click", function(){
   button.classList.add('red')
 })
+
+
+const modalToggle = document.querySelector('.jsModalToggle')

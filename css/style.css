@@ -37,7 +37,7 @@ body{
   z-index: -1;
 }
 
-.modal-is-open .modal-container{
+body.modal-is-open .modal-container{
   opacity: 1;
   z-index: 1;
 }
